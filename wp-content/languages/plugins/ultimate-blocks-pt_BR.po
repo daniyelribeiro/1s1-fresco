@@ -1,0 +1,203 @@
+# Translation of Plugins - Ultimate Blocks &#8211; Gutenberg Blocks Plugin - Stable (latest release) in Portuguese (Brazil)
+# This file is distributed under the same license as the Plugins - Ultimate Blocks &#8211; Gutenberg Blocks Plugin - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-06-30 22:05:48+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/4.0.0-alpha.4\n"
+"Language: pt_BR\n"
+"Project-Id-Version: Plugins - Ultimate Blocks &#8211; Gutenberg Blocks Plugin - Stable (latest release)\n"
+
+#: admin/templates/help/help-page.php:70
+msgid "Join Our Facebook Group!"
+msgstr "Junte-se ao nosso grupo do Facebook »"
+
+#: admin/templates/help/help-page.php:64
+msgid "Follow Us On Twitter!"
+msgstr "Siga-nos no Twitter!"
+
+#: admin/templates/help/help-page.php:60
+msgid "For upcoming plugins updates, news, tips and tutorials on Gutenberg in general you can stay connected with us."
+msgstr "Para futuras atualizações de plugins, notícias, dicas e tutoriais sobre Gutenberg em geral, você pode ficar conectado com a gente."
+
+#: admin/templates/help/help-page.php:59
+msgid "Stay Connected with Us!"
+msgstr "Fique conectado com a gente!"
+
+#: src/blocks/countdown/block.php:66 src/blocks/countdown/block.php:103
+#: src/blocks/countdown/components.js:202
+#: src/blocks/countdown/components.js:222 src/blocks/how-to/components.js:580
+#: src/blocks/how-to/components.js:676 dist/blocks.build.js:30320
+#: dist/blocks.build.js:30340 dist/blocks.build.js:33431
+#: dist/blocks.build.js:33527
+msgid "Seconds"
+msgstr "Segundos"
+
+#: src/blocks/countdown/block.php:65 src/blocks/countdown/block.php:102
+#: src/blocks/countdown/components.js:201
+#: src/blocks/countdown/components.js:221 src/blocks/how-to/components.js:555
+#: src/blocks/how-to/components.js:652 dist/blocks.build.js:30319
+#: dist/blocks.build.js:30339 dist/blocks.build.js:33406
+#: dist/blocks.build.js:33503
+msgid "Minutes"
+msgstr "Minutos"
+
+#: src/blocks/countdown/block.php:64 src/blocks/countdown/block.php:101
+#: src/blocks/countdown/components.js:200
+#: src/blocks/countdown/components.js:220 src/blocks/how-to/components.js:530
+#: src/blocks/how-to/components.js:627 dist/blocks.build.js:30318
+#: dist/blocks.build.js:30338 dist/blocks.build.js:33381
+#: dist/blocks.build.js:33478
+msgid "Hours"
+msgstr "Horas"
+
+#: src/blocks/countdown/block.php:63 src/blocks/countdown/block.php:100
+#: src/blocks/countdown/components.js:199
+#: src/blocks/countdown/components.js:219 src/blocks/how-to/components.js:510
+#: src/blocks/how-to/components.js:607 dist/blocks.build.js:30317
+#: dist/blocks.build.js:30337 dist/blocks.build.js:33361
+#: dist/blocks.build.js:33458
+msgid "Days"
+msgstr "Dias"
+
+#: src/blocks/countdown/block.php:62 src/blocks/countdown/block.php:99
+#: src/blocks/countdown/components.js:198
+#: src/blocks/countdown/components.js:218 dist/blocks.build.js:30316
+#: dist/blocks.build.js:30336
+msgid "Weeks"
+msgstr "Semanas"
+
+#: src/blocks/countdown/block.php:37 src/blocks/countdown/components.js:179
+#: dist/blocks.build.js:30297
+msgid "seconds"
+msgstr "segundos"
+
+#: src/blocks/countdown/block.php:36 src/blocks/countdown/components.js:178
+#: dist/blocks.build.js:30296
+msgid "minutes"
+msgstr "minutos"
+
+#: src/blocks/countdown/block.php:35 src/blocks/countdown/components.js:177
+#: dist/blocks.build.js:30295
+msgid "hours"
+msgstr "horas"
+
+#: src/blocks/countdown/block.php:34 src/blocks/countdown/components.js:176
+#: dist/blocks.build.js:30294
+msgid "days"
+msgstr "dias"
+
+#: src/blocks/countdown/block.php:33 src/blocks/countdown/components.js:175
+#: dist/blocks.build.js:30293
+msgid "weeks"
+msgstr "semanas"
+
+#. Description of the plugin
+msgid "Custom Blocks for Bloggers and Marketers. Create Better Content With Gutenberg."
+msgstr "Blocos personalizados para blogueiros e comerciantes. Crie um conteúdo melhor com o Gutenberg."
+
+#: src/blocks/table-of-contents/block.php:108
+#: src/blocks/table-of-contents/block.php:120
+#: src/blocks/table-of-contents/block.js:253
+#: src/blocks/table-of-contents/block.js:268
+#: src/blocks/table-of-contents/components.js:1087
+#: src/blocks/table-of-contents/oldVersions.js:201
+#: src/blocks/table-of-contents/oldVersions.js:561
+#: src/blocks/table-of-contents/oldVersions.js:600
+#: src/blocks/table-of-contents/oldVersions.js:891
+#: src/blocks/table-of-contents/oldVersions.js:914 dist/blocks.build.js:47539
+#: dist/blocks.build.js:47554 dist/blocks.build.js:48738
+#: dist/blocks.build.js:49093 dist/blocks.build.js:49453
+#: dist/blocks.build.js:49492 dist/blocks.build.js:49783
+#: dist/blocks.build.js:49806
+msgid "show"
+msgstr "mostrar"
+
+#: src/blocks/table-of-contents/block.php:108
+#: src/blocks/table-of-contents/block.php:119
+#: src/blocks/table-of-contents/block.js:254
+#: src/blocks/table-of-contents/block.js:268
+#: src/blocks/table-of-contents/components.js:1087
+#: src/blocks/table-of-contents/oldVersions.js:201
+#: src/blocks/table-of-contents/oldVersions.js:561
+#: src/blocks/table-of-contents/oldVersions.js:600
+#: src/blocks/table-of-contents/oldVersions.js:891
+#: src/blocks/table-of-contents/oldVersions.js:915 dist/blocks.build.js:47540
+#: dist/blocks.build.js:47554 dist/blocks.build.js:48738
+#: dist/blocks.build.js:49093 dist/blocks.build.js:49453
+#: dist/blocks.build.js:49492 dist/blocks.build.js:49783
+#: dist/blocks.build.js:49807
+msgid "hide"
+msgstr "ocultar"
+
+#: src/blocks/click-to-tweet/block.php:56
+#: src/blocks/click-to-tweet/block.js:111
+#: src/blocks/click-to-tweet/block.js:121 dist/blocks.build.js:26312
+#: dist/blocks.build.js:26322
+msgid "Click to Tweet"
+msgstr "Clique para Tweetar"
+
+#: admin/templates/help/help-page.php:29
+msgid "More in the making..."
+msgstr "Mais no fazer..."
+
+#: admin/templates/help/help-page.php:18
+msgid "Welcome to Ultimate Blocks!"
+msgstr "Boas-vindas ao Ultimate Blocks!"
+
+#. Plugin URI of the plugin
+#. Author URI of the plugin
+msgid "https://ultimateblocks.com/"
+msgstr "https://ultimateblocks.com/"
+
+#: admin/templates/help/help-page.php:39
+msgid "Learn More"
+msgstr "Saiba mais"
+
+#: admin/templates/help/help-page.php:33
+msgid "Manage the Blocks"
+msgstr "Gerencie os blocos"
+
+#. Plugin Name of the plugin
+#. Author of the plugin
+#: includes/class-ultimate-blocks-category.php:65
+#: src/blocks/advanced-heading/block.js:76 src/blocks/button/block.js:135
+#: src/blocks/button/block.js:340 src/blocks/call-to-action/block.js:143
+#: src/blocks/call-to-action/block.js:317
+#: src/blocks/click-to-tweet/block.js:125
+#: src/blocks/content-toggle/block.js:125
+#: src/blocks/content-toggle/block.js:228 src/blocks/countdown/block.js:199
+#: src/blocks/divider/block.js:208 src/blocks/expand/block.js:26
+#: src/blocks/feature-box/block.js:138 src/blocks/feature-box/block.js:339
+#: src/blocks/how-to/block.js:186 src/blocks/image-slider/block.js:605
+#: src/blocks/notification-box/block.js:64
+#: src/blocks/notification-box/block.js:181 src/blocks/number-box/block.js:128
+#: src/blocks/number-box/block.js:370 src/blocks/post-grid/block.js:34
+#: src/blocks/progress-bar/block.js:228 src/blocks/review/block.js:1839
+#: src/blocks/social-share/block.js:297 src/blocks/star-rating/block.js:204
+#: src/blocks/styled-list/block.js:69 src/blocks/styled-list/block.js:169
+#: src/blocks/tabbed-content/block.js:151
+#: src/blocks/tabbed-content/block.js:269
+#: src/blocks/table-of-contents/block.js:140
+#: src/blocks/table-of-contents/block.js:310 src/blocks/testimonial/block.js:91
+#: src/blocks/testimonial/block.js:251 dist/blocks.build.js:18101
+#: dist/blocks.build.js:22224 dist/blocks.build.js:22428
+#: dist/blocks.build.js:25167 dist/blocks.build.js:25341
+#: dist/blocks.build.js:26325 dist/blocks.build.js:27955
+#: dist/blocks.build.js:28054 dist/blocks.build.js:30065
+#: dist/blocks.build.js:31052 dist/blocks.build.js:31171
+#: dist/blocks.build.js:31680 dist/blocks.build.js:31881
+#: dist/blocks.build.js:32834 dist/blocks.build.js:35454
+#: dist/blocks.build.js:35718 dist/blocks.build.js:35835
+#: dist/blocks.build.js:36262 dist/blocks.build.js:36504
+#: dist/blocks.build.js:37393 dist/blocks.build.js:38632
+#: dist/blocks.build.js:40583 dist/blocks.build.js:41928
+#: dist/blocks.build.js:44414 dist/blocks.build.js:44513
+#: dist/blocks.build.js:45961 dist/blocks.build.js:46078
+#: dist/blocks.build.js:47425 dist/blocks.build.js:47595
+#: dist/blocks.build.js:50329 dist/blocks.build.js:50488
+msgid "Ultimate Blocks"
+msgstr "Ultimate Blocks"
